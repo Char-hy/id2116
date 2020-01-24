@@ -1,14 +1,16 @@
 
 body {
-    background-color: lightblue;
+    background-color: snow;
   }
   
   h1 {
-    color: blue;
-    text-align: center;
+    color: orange;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif
   }
   
   p {
-    font-family: verdana;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
   }
