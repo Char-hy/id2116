@@ -1,12 +1,13 @@
 
 body {
-    background-color: snow;
+    background-color: rosybrown;
   }
   
   h1 {
-    color: orange;
+    color: royalblue;
     text-align: left;
-    font-family: garamond
+    font-family: garamond;
+    font-size: 32px;
   }
 
   h2 {
