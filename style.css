@@ -4,19 +4,22 @@ body {
   }
   
   h1 {
-    color: tomato;
+    color: darkslategrey;
     text-align: left;
-    font-family: garamond;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
     font-size: 32px;
   }
 
   h2 {
+      color: darkslategrey;
       text-align: left;
       font-family: garamond;
       font-style: 14px;
   }
   
   p {
+    color: darkslategrey;
     text-align: left;
     font-family: garamond;
     font-size: 14px;
