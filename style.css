@@ -15,11 +15,19 @@ body {
       color: darkslategrey;
       text-align: left;
       font-family: Helvetica;
-      font-weight: 20;
+      font-style: italic;
+      font-weight: 5;
       font-style: 18px;
   }
   
   p {
+    color: darkslategrey;
+    text-align: left;
+    font-family: Garamond;
+    font-size: 18px;
+  }
+
+  ul {
     color: darkslategrey;
     text-align: left;
     font-family: Garamond;
