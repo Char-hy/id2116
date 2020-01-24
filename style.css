@@ -41,3 +41,10 @@ body {
     font-family: Garamond;
     font-size: 18px;
   }
+
+  footer {
+    color: darkslategrey;
+    text-align: center;
+    font-family: Garamond;
+    font-size: small;
+  }
