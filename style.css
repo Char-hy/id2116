@@ -42,8 +42,15 @@ body {
     font-size: 18px;
   }
 
-  a {
-    color: orange;
+  a:active {
+    color: salmon;
+    text-align: left;
+    font-family: Garamond;
+    font-size: 18px;
+  }
+
+  a:visited {
+    color: darkred;
     text-align: left;
     font-family: Garamond;
     font-size: 18px;
