@@ -19,6 +19,13 @@ body {
       font-weight: 100;
       font-style: 18px;
   }
+
+  h3 {
+    color: darkslategrey;
+    text-align: left;
+    font-family: Garamond;
+    font-style: 18px;
+  }
   
   p {
     color: darkslategrey;
