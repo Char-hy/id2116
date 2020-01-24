@@ -7,19 +7,20 @@ body {
     color: darkslategrey;
     text-align: left;
     font-family: Arial, Helvetica, sans-serif;
-    font-weight: 400;
+    font-weight: 1000;
     font-size: 32px;
   }
 
   h2 {
-      color: midnightblue;
+      color: darkslategrey;
       text-align: left;
-      font-family: garamond;
+      font-family: Arial, Helvetica, sans-serif;
+      font-weight: 1000;
       font-style: 18px;
   }
   
   p {
-    color: midnightblue;
+    color: darkslategrey;
     text-align: left;
     font-family: garamond;
     font-size: 18px;
