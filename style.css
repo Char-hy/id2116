@@ -42,6 +42,13 @@ body {
     font-size: 18px;
   }
 
+  a {
+    color: orange;
+    text-align: left;
+    font-family: Garamond;
+    font-size: 18px;
+  }
+
   footer {
     color: darkslategrey;
     text-align: center;
