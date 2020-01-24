@@ -12,15 +12,15 @@ body {
   }
 
   h2 {
-      color: darkslategrey;
+      color: midnightblue;
       text-align: left;
       font-family: garamond;
-      font-style: 14px;
+      font-style: 18px;
   }
   
   p {
-    color: darkslategrey;
+    color: midnightblue;
     text-align: left;
     font-family: garamond;
-    font-size: 14px;
+    font-size: 18px;
   }
