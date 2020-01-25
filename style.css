@@ -3,6 +3,12 @@ body {
     background-color: snow;
   }
 
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
   h1 {
     color: darkslategrey;
     text-align: left;
