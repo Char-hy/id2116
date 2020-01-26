@@ -8,29 +8,6 @@ body {
     margin-left: auto;
     margin-right: auto;
 
-    /* Three image containers (use 25% for four, and 50% for two, etc. In this case, have 3 so is 33.33%) */
-    .column {
-    float: left: ;;
-    width: 33.33%;
-    padding: 5px;
-    }
-
-    /* Clear floats after image containers */
-    .row::after {
-    content: "";
-    clear: both;
-    display: table;
-    }
-
-    .row {
-      display: flex;
-    }
-    
-    .column {
-      flex: 33.33%;
-      padding: 5px;
-    }
-
   }
 
   h1 {
