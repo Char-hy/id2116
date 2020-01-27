@@ -14,25 +14,26 @@ body {
     color: darkslategrey;
     text-align: left;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-weight: 900;
     font-size: 32px;
+    font-weight: 900;
   }
 
   h2 {
       color: darkslategrey;
       text-align: left;
       font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-      font-style: italic;
-      font-weight: 100;
       font-style: 18px;
+      font-weight: 100;
   }
 
   h3 {
     color: darkslategrey;
     text-align: left;
     font-family: Garamond;
-    font-weight: 100;
+    font-style: italic;
     font-style: 18px;
+    font-weight: 100;
+    
   }
   
   p {
