@@ -40,6 +40,13 @@ body {
     font-size: 18px;
   }
 
+  footer {
+    color: salmon;
+    text-align: center;
+    font-family: Garamond;
+    font-size: 12px;
+  }
+
   a {
     color: salmon;
     text-align: left;
@@ -51,12 +58,5 @@ body {
     color: darkred;
     text-align: left;
     font-family: Garamond;
-    font-size: 10x;
-  }
-
-  footer {
-    color: salmon;
-    text-align: center;
-    font-family: Garamond;
-    font-size: 10px;
+    font-size: 18x;
   }
